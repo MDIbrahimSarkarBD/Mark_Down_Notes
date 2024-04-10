@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prome AI/Waman.md",
+                "file": "prompt AI/Flower Prome.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prome AI/Waman.md",
+                "file": "prompt AI/Flower Prome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prome AI/Waman.md",
+                "file": "prompt AI/Flower Prome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prome AI/Waman.md"
+                "file": "prompt AI/Flower Prome.md"
               }
             }
           }
@@ -147,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6ffb258ea500b03",
+  "active": "d580ed45a79ba2b6",
   "lastOpenFiles": [
-    "Prome AI/Flower Prome.md",
-    "Prome AI/Waman.md",
-    "Redux/Redux and React First Project Step.md",
-    "Prome AI",
     "2024-04-10.md",
+    "prompt AI/Flower Prome.md",
+    "prompt AI/Waman.md",
+    "Redux/Redux and React First Project Step.md",
+    "prompt AI",
     "Package npm and yarn/yarn.md",
     "Package npm and yarn/Untitled 1.md",
     "Package npm and yarn",

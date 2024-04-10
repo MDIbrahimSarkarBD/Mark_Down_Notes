@@ -1,2 +1,0 @@
-https://ideogram.ai/api/images/direct/mvVnq86ZQnKBlID-6EAEeQ.png
-A pencil sketch of a bare(খালি,নগ্ন, অনাবৃত,নাঙ্গা,অসজ্জিত,নেড়া,দরিদ্র ,উন্মোচন করা, ফাঁকা) woman, front view, long hair, hair flowing, smiling, looking sideways, her chest area is erased and is replaced with the text 'Maybe Not Safe', elegant, navel
