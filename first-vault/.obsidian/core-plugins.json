@@ -12,10 +12,16 @@
   "templates",
   "note-composer",
   "command-palette",
+<<<<<<< HEAD
   "editor-status",
   "bookmarks",
   "outline",
   "word-count",
   "audio-recorder",
+=======
+  "bookmarks",
+  "outline",
+  "word-count",
+>>>>>>> b32c2926f4b78e13a210ca6927d499d5560b70fd
   "file-recovery"
 ]

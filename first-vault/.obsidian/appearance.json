@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "accentColor": "#f5825c",
   "nativeMenus": true,
   "interfaceFontFamily": "Lato"
+=======
+  "accentColor": "",
+  "nativeMenus": true
+>>>>>>> b32c2926f4b78e13a210ca6927d499d5560b70fd
 }

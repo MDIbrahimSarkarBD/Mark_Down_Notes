@@ -14,7 +14,11 @@
   "note-composer": true,
   "command-palette": true,
   "slash-command": false,
+<<<<<<< HEAD
   "editor-status": true,
+=======
+  "editor-status": false,
+>>>>>>> b32c2926f4b78e13a210ca6927d499d5560b70fd
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
@@ -22,7 +26,11 @@
   "outline": true,
   "word-count": true,
   "slides": false,
+<<<<<<< HEAD
   "audio-recorder": true,
+=======
+  "audio-recorder": false,
+>>>>>>> b32c2926f4b78e13a210ca6927d499d5560b70fd
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
