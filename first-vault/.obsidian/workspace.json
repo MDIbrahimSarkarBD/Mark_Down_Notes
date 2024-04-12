@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
+                "file": "Github/Any Folder add.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
+                "file": "Github/Any Folder add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
+                "file": "Github/Any Folder add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md"
+                "file": "Github/Any Folder add.md"
               }
             }
           }
@@ -182,10 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d580ed45a79ba2b6",
+  "active": "3ae615bcb1897d1e",
   "lastOpenFiles": [
-    "2024-04-12.md",
+    "Github/Desktop cunnection.md",
+    "ibrahimObsidia/Welcome.md",
+    "ibrahimObsidia/create a link.md",
     "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
+    "2024-04-12.md",
     "Diploma Education/Electronics",
     "Diploma Education",
     "Python/Test Examples/eye-controlled application/eye-controlled inti the browser in youtube Vdeo Playing Pouse application.md",
@@ -227,9 +230,6 @@
     "prompt AI/Flower Prome.md",
     "2024-04-10.md",
     "prompt AI/Waman.md",
-    "Redux/Redux and React First Project Step.md",
-    "Package npm and yarn/yarn.md",
-    "Redux/topics list  by rabill.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
