@@ -12,8 +12,10 @@
   "templates",
   "note-composer",
   "command-palette",
+  "editor-status",
   "bookmarks",
   "outline",
   "word-count",
+  "audio-recorder",
   "file-recovery"
 ]

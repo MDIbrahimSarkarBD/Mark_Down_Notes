@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "nativeMenus": true
+  "accentColor": "#f5825c",
+  "nativeMenus": true,
+  "interfaceFontFamily": "Lato"
 }

@@ -8,14 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6ffb258ea500b03",
+            "id": "3ae615bcb1897d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt AI/Flower Prome.md",
+                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bd94e67fd4b2b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf6845275d2c4cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ac0d0ffc372e7c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot_61.png"
               }
             }
           }
@@ -48,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example-2",
+                "query": "tag:#videoLink",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompt AI/Flower Prome.md",
+                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prompt AI/Flower Prome.md",
+                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt AI/Flower Prome.md"
+                "file": "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,47 +184,57 @@
   },
   "active": "d580ed45a79ba2b6",
   "lastOpenFiles": [
-    "2024-04-10.md",
+    "2024-04-12.md",
+    "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
+    "Diploma Education/Electronics",
+    "Diploma Education",
+    "Python/Test Examples/eye-controlled application/eye-controlled inti the browser in youtube Vdeo Playing Pouse application.md",
+    "Python/Test Examples/eye-controlled application",
+    "Python/Test Examples",
+    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
+    "Untitled",
+    "Python",
+    "Screenshot_76.png",
+    "Screenshot_75.png",
+    "Screenshot_73.png",
+    "Screenshot_72.png",
+    "Screenshot_71.png",
+    "Screenshot_67.png",
+    "Screenshot_66.png",
+    "JavaScript & Node js/JavaScript Details/Sumit/4 Hoisting JavaScript.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/3 Closures JavaScript.md",
+    "Screenshot_65.png",
+    "Screenshot_64.png",
+    "Screenshot_63.png",
+    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/1 Scopes Javascript.md",
+    "JavaScript & Node js/JavaScript Details/JavaScript Concept List.md",
+    "JavaScript & Node js/JavaScript Details/Sumit",
+    "2024-04-11.md",
+    "Architecture konlin.md",
+    "মাননীয় প্রধানমন্ত্রী বাংলাদেশ সরকার আপা আমার ভুল ত্রুটির জন্য ক্ষমা.md",
+    "Digital Marketing/Marketing facebook.md",
+    "Digital Marketing/Digital Marketing Course 2023.md",
+    "Dictionary Bangla & English/Programming Related  Word.md",
+    "Digital Marketing",
+    "JavaScript & Node js/JavaScript Details/show more/Tagged Template Literals.md",
+    "Dictionary Bangla & English",
+    "Dictionary",
+    "JavaScript & Node js/Package video.md",
+    "JavaScript & Node js/JavaScript Details/show more/Built In Function.md",
+    "JavaScript & Node js/React Package list/Use full Package List React.md",
+    "Package npm and yarn/Untitled 1.md",
     "prompt AI/Flower Prome.md",
+    "2024-04-10.md",
     "prompt AI/Waman.md",
     "Redux/Redux and React First Project Step.md",
-    "prompt AI",
     "Package npm and yarn/yarn.md",
-    "Package npm and yarn/Untitled 1.md",
-    "Package npm and yarn",
     "Redux/topics list  by rabill.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Demo.md",
-    "Architecture konlin.md",
-    "2024-04-07.md",
-    "2024-03-26.md",
-    "Github/Any Folder add.md",
-    "Github/Desktop cunnection.md",
-    "Flutter/First Step/Building Method Details in Flutter Language.md",
-    "Flutter/First Step/Project UI List/Project Body.md",
-    "Flutter/First Step/Project UI List/Card UI.md",
-    "ibrahimObsidia/create a link.md",
-    "ibrahimObsidia/Welcome.md",
-    "ibrahimObsidia",
-    "Android Studio/Kotlin My Module/UI XML/Activity kotlin.md",
-    "Flutter/First Step/Project UI List/Data send a Activity to other activity.md",
-    "main.dart",
-    "Flutter/First Step/Project UI List/Activity mean On page to Go Other Page.md",
-    "Flutter/First Step/Project UI List/Tab bar UI.md",
-    "Flutter/First Step/Project UI List",
-    "Flutter/First Step/List View Builder for m Array.md",
-    "Flutter/First Step/Untitled.md",
-    "Flutter/First Step/Fonts Custom.md",
-    "Flutter/First Step/Widgets List.md",
-    "Flutter/First Step",
-    "Flutter",
-    "Rabbil Hasan Rupom/Dart",
-    "Github",
     "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
-    "Android Studio/Kotlin Tutorials/Stack Learner",
     "Android Studio/Untitled.canvas"
   ]
 }

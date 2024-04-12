@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "defaultViewMode": "source",
-  "livePreview": false,
+  "livePreview": true,
   "focusNewTab": false,
   "vimMode": false,
   "tabSize": 5
