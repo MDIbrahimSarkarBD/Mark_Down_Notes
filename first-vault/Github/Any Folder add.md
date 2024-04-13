@@ -28,5 +28,22 @@ cssCopy code
 
 `git checkout -b main git push origin main`
 
+# Solving
+"er repository pushing to
+hint: the same ref. If you want to integrate the rehint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details."
+## git pull origin main --allow-unrelated-histories
+
+```github
+git pull origin main --allow-unrelated-histories
+
+git add .
+git commit -m "Merge unrelated histories"
+
+git push origin main
+
+
+```
+
 
 

@@ -1,12 +1,9 @@
 {
   "promptDelete": false,
-  "defaultViewMode": "source",
-<<<<<<< HEAD
-  "livePreview": true,
-=======
-  "livePreview": false,
->>>>>>> b32c2926f4b78e13a210ca6927d499d5560b70fd
-  "focusNewTab": false,
-  "vimMode": false,
-  "tabSize": 5
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "Github"
 }

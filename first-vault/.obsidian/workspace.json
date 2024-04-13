@@ -4,53 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb9c5c53bbc2bdd",
+        "id": "ae0bcc226f47ed20",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae615bcb1897d1e",
+            "id": "f343ad62a563b934",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/Any Folder add.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bd94e67fd4b2b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf6845275d2c4cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30ac0d0ffc372e7c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot_61.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -119,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/Any Folder add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/Any Folder add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Github/Any Folder add.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +130,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,57 +138,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ae615bcb1897d1e",
+  "active": "f343ad62a563b934",
   "lastOpenFiles": [
+    "ScreenShortzImage/Screenshot_63.png",
+    "ScreenShortzImage/Screenshot_61.png",
+    "ScreenShortzImage/Screenshot_6.png",
+    "JavaScript & Node js/Package video.md",
+    "Architecture konlin.md",
     "Untitled.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
+    "2024-04-11.md",
+    "2024-04-12.md",
+    "2024-04-14.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
+    "Github/Screenshot_7.png",
+    "ScreenShortzImage/Screenshot_89.png",
+    "ScreenShortzImage/Screenshot_90.png",
+    "ScreenShortzImage/Screenshot_91.png",
+    "Github/Demo.md",
+    "ScreenShortzImage/Screenshot_65.png",
+    "ScreenShortzImage",
+    "ScreenShortzImage/Screenshot_67.png",
     "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "মাননীয় প্রধানমন্ত্রী বাংলাদেশ সরকার আপা আমার ভুল ত্রুটির জন্য ক্ষমা.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
+    "2024-04-10.md",
     "2024-04-07.md",
     "2024-03-26.md",
+    "ScreenShortzImage/Screenshot_88 1.png",
+    "ScreenShortzImage/Screenshot_88.png",
+    "JavaScript & Node js/JavaScript Details/Sumit/7 this, call90, apply(), and bind().md",
+    "JavaScript & Node js/JavaScript Details/Sumit/6 Prototype Inheritance.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
+    "Github/Any Folder add.md",
     "Github/Desktop cunnection.md",
     "ibrahimObsidia/Welcome.md",
     "ibrahimObsidia/create a link.md",
     "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
-    "2024-04-12.md",
     "Diploma Education/Electronics",
     "Diploma Education",
     "Python/Test Examples/eye-controlled application/eye-controlled inti the browser in youtube Vdeo Playing Pouse application.md",
     "Python/Test Examples/eye-controlled application",
     "Python/Test Examples",
-    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
     "Untitled",
     "Python",
-    "Screenshot_76.png",
-    "Screenshot_75.png",
-    "Screenshot_73.png",
-    "Screenshot_72.png",
-    "Screenshot_71.png",
-    "Screenshot_67.png",
-    "Screenshot_66.png",
     "JavaScript & Node js/JavaScript Details/Sumit/4 Hoisting JavaScript.md",
     "JavaScript & Node js/JavaScript Details/Sumit/3 Closures JavaScript.md",
-    "Screenshot_65.png",
-    "Screenshot_64.png",
-    "Screenshot_63.png",
-    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
     "JavaScript & Node js/JavaScript Details/Sumit/1 Scopes Javascript.md",
     "JavaScript & Node js/JavaScript Details/JavaScript Concept List.md",
     "JavaScript & Node js/JavaScript Details/Sumit",
-    "2024-04-11.md",
-    "Architecture konlin.md",
-    "মাননীয় প্রধানমন্ত্রী বাংলাদেশ সরকার আপা আমার ভুল ত্রুটির জন্য ক্ষমা.md",
-    "Digital Marketing/Marketing facebook.md",
-    "Digital Marketing/Digital Marketing Course 2023.md",
-    "Dictionary Bangla & English/Programming Related  Word.md",
     "Digital Marketing",
-    "JavaScript & Node js/JavaScript Details/show more/Tagged Template Literals.md",
     "Dictionary Bangla & English",
-    "Dictionary",
-    "JavaScript & Node js/Package video.md",
-    "JavaScript & Node js/JavaScript Details/show more/Built In Function.md",
-    "JavaScript & Node js/React Package list/Use full Package List React.md",
-    "Package npm and yarn/Untitled 1.md",
     "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
     "Android Studio/Untitled.canvas"
   ]
