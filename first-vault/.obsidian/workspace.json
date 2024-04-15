@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ae0bcc226f47ed20",
+        "id": "34c3fdc2219d5da2",
         "type": "tabs",
         "children": [
           {
-            "id": "f343ad62a563b934",
+            "id": "5f802375dec6f95e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architecture konlin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#videoLink",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture konlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture konlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Architecture konlin.md"
+              }
             }
           }
         ]
@@ -138,58 +146,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f343ad62a563b934",
+  "active": "5f802375dec6f95e",
   "lastOpenFiles": [
+    "2024-04-12.md",
+    "2024-04-15.md",
+    "2024-04-14.md",
+    "Redux/Redux and React First Project Step.md",
+    "Architecture konlin.md",
+    "2024-04-11.md",
+    "Facebook/Sumaiya Minu/Sumaiyamimu24.md",
+    "Facebook/Sumaiya Minu",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
+    "Facebook",
+    "JavaScript & Node js/JavaScript Details/Sumit/1 Scopes Javascript.md",
+    "JavaScript & Node js/JavaScript Details/show more/Tagged Template Literals.md",
+    "JavaScript & Node js/JavaScript Details/show more/Built In Function.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/3 Closures JavaScript.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/6 Prototype Inheritance.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/4 Hoisting JavaScript.md",
+    "Chrome Extention/Chrome DevTools.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/9 Higher Order Fucntion.md",
+    "Chrome Extention",
+    "JavaScript & Node js/JavaScript Details/Sumit/10 Asynchronous JavaScript.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/7 this, call90, apply(), and bind().md",
+    "Github/Screenshot_98.png",
+    "Github/Screenshot_96.png",
+    "Github/Screenshot_95.png",
+    "Github/Screenshot_94.png",
+    "Github/Screenshot_93.png",
+    "Github/Screenshot_92.png",
+    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
     "ScreenShortzImage/Screenshot_63.png",
     "ScreenShortzImage/Screenshot_61.png",
     "ScreenShortzImage/Screenshot_6.png",
     "JavaScript & Node js/Package video.md",
-    "Architecture konlin.md",
     "Untitled.canvas",
-    "2024-04-11.md",
-    "2024-04-12.md",
-    "2024-04-14.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
     "Github/Screenshot_7.png",
-    "ScreenShortzImage/Screenshot_89.png",
-    "ScreenShortzImage/Screenshot_90.png",
-    "ScreenShortzImage/Screenshot_91.png",
     "Github/Demo.md",
-    "ScreenShortzImage/Screenshot_65.png",
     "ScreenShortzImage",
-    "ScreenShortzImage/Screenshot_67.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "মাননীয় প্রধানমন্ত্রী বাংলাদেশ সরকার আপা আমার ভুল ত্রুটির জন্য ক্ষমা.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
     "2024-04-10.md",
     "2024-04-07.md",
     "2024-03-26.md",
-    "ScreenShortzImage/Screenshot_88 1.png",
-    "ScreenShortzImage/Screenshot_88.png",
-    "JavaScript & Node js/JavaScript Details/Sumit/7 this, call90, apply(), and bind().md",
-    "JavaScript & Node js/JavaScript Details/Sumit/6 Prototype Inheritance.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
-    "Github/Any Folder add.md",
-    "Github/Desktop cunnection.md",
-    "ibrahimObsidia/Welcome.md",
-    "ibrahimObsidia/create a link.md",
-    "Diploma Education/Electronics/ইলেট্রিক্যাল সার্কিট-১.md",
     "Diploma Education/Electronics",
     "Diploma Education",
-    "Python/Test Examples/eye-controlled application/eye-controlled inti the browser in youtube Vdeo Playing Pouse application.md",
     "Python/Test Examples/eye-controlled application",
-    "Python/Test Examples",
-    "Untitled",
-    "Python",
-    "JavaScript & Node js/JavaScript Details/Sumit/4 Hoisting JavaScript.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/3 Closures JavaScript.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/1 Scopes Javascript.md",
-    "JavaScript & Node js/JavaScript Details/JavaScript Concept List.md",
-    "JavaScript & Node js/JavaScript Details/Sumit",
-    "Digital Marketing",
-    "Dictionary Bangla & English",
     "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
     "Android Studio/Untitled.canvas"
   ]
