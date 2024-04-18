@@ -11,15 +11,26 @@
             "id": "5f802375dec6f95e",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "ScreenShortzImage/Screenshot_92.png"
+              }
+            }
+          },
+          {
+            "id": "0f452ca2c130d28b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture konlin.md",
+                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "0d475cfb35bc590a",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture konlin.md",
+                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture konlin.md",
+                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture konlin.md"
+                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md"
               }
             }
           }
@@ -146,13 +157,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f802375dec6f95e",
+  "active": "0f452ca2c130d28b",
   "lastOpenFiles": [
+    "2024-04-18.md",
+    "SEO is Everything/Outsourcing BD Institute by Golzer/Untitled.md",
+    "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
+    "SEO is Everything/Outsourcing BD Institute by Golzer",
+    "SEO is Everything",
+    "2024-04-16.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
+    "JavaScript & Node js/JavaScript Details/Sumit/Untitled.canvas",
+    "Github/Any Folder add.md",
+    "ScreenShortzImage/Screenshot_98.png",
+    "ScreenShortzImage/Screenshot_92.png",
+    "ScreenShortzImage/Screenshot_96.png",
+    "ScreenShortzImage/Screenshot_94.png",
+    "ScreenShortzImage/Screenshot_93.png",
+    "Github/Desktop cunnection.md",
+    "ScreenShortzImage/Screenshot_95.png",
+    "Architecture konlin.md",
     "2024-04-12.md",
     "2024-04-15.md",
     "2024-04-14.md",
     "Redux/Redux and React First Project Step.md",
-    "Architecture konlin.md",
     "2024-04-11.md",
     "Facebook/Sumaiya Minu/Sumaiyamimu24.md",
     "Facebook/Sumaiya Minu",
@@ -173,31 +200,16 @@
     "Chrome Extention",
     "JavaScript & Node js/JavaScript Details/Sumit/10 Asynchronous JavaScript.md",
     "JavaScript & Node js/JavaScript Details/Sumit/7 this, call90, apply(), and bind().md",
-    "Github/Screenshot_98.png",
-    "Github/Screenshot_96.png",
-    "Github/Screenshot_95.png",
-    "Github/Screenshot_94.png",
-    "Github/Screenshot_93.png",
-    "Github/Screenshot_92.png",
-    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
     "ScreenShortzImage/Screenshot_63.png",
     "ScreenShortzImage/Screenshot_61.png",
     "ScreenShortzImage/Screenshot_6.png",
-    "JavaScript & Node js/Package video.md",
     "Untitled.canvas",
     "Github/Screenshot_7.png",
-    "Github/Demo.md",
     "ScreenShortzImage",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "মাননীয় প্রধানমন্ত্রী বাংলাদেশ সরকার আপা আমার ভুল ত্রুটির জন্য ক্ষমা.md",
-    "2024-04-10.md",
-    "2024-04-07.md",
-    "2024-03-26.md",
     "Diploma Education/Electronics",
-    "Diploma Education",
-    "Python/Test Examples/eye-controlled application",
     "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
     "Android Studio/Untitled.canvas"
   ]

@@ -14,9 +14,9 @@ git branch -M main
 git remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git
 git push -u origin main
 
-gh auth login
+~gh auth login~
 gh repo create <11>
-gh repo create <repository-name> --private --description "My new repository"
+gh repo create <repository-name> --private --description "chrome_extention"
 
 git remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git
 
@@ -28,6 +28,22 @@ cssCopy code
 
 `git checkout -b main git push origin main`
 
+## Origin Check
+```gt
+git remote -v
+```
+## Origin Remove
+
+```gt
+git remote remove origin
+
+```
+
+## Origin Set
+
+```gt
+git remote add origin https://github.com/MDIbrahimSarkarBD/Crome_Extention.git
+```
 # Solving
 "er repository pushing to
 hint: the same ref. If you want to integrate the rehint: 'git pull' before pushing again.
