@@ -23,14 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
+                "file": "Fiver/SEO/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8fd6985c403333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Site Create list/Common Elements/CND.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acba0357acc9ee23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#16numberVideo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
+                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
+                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md"
+                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md"
               }
             }
           }
@@ -157,59 +181,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f452ca2c130d28b",
+  "active": "acba0357acc9ee23",
   "lastOpenFiles": [
-    "2024-04-18.md",
+    "2024-04-20.md",
+    "ScreenShortzImage/Screenshot_127.png",
+    "ScreenShortzImage/Screenshot_128.png",
+    "ScreenShortzImage/Pasted image 20240420124116.png",
+    "Computer Configaration/Router IP.md",
+    "A Site Create list/Blogger Site/Blogger Development/Blogger API background.md",
+    "A Site Create list/Blogger Site/Blogger Development",
     "ScreenShortzImage/Screenshot_92.png",
-    "SEO is Everything/Khalid Farhan SEO/1 FIRST",
-    "SEO is Everything/Khalid Farhan SEO",
-    "SEO ARIA/Khalid Farhan",
-    "SEO ARIA",
+    "Flutter/First Step/Project UI List/Tab bar UI.md",
+    "Computer Configaration",
+    "Flutter/First Step/Project UI List/Project Body.md",
+    "Flutter/First Step/Project UI List/Data send a Activity to other activity.md",
+    "Flutter/First Step/Project UI List/Activity mean On page to Go Other Page.md",
+    "Flutter/First Step/Project UI List/Card UI.md",
+    "Flutter/First Step/Widgets List.md",
+    "Flutter/First Step/Untitled.md",
+    "Flutter/First Step/Primary Struture.md",
+    "Flutter/First Step/List View Builder for m Array.md",
+    "Flutter/First Step/Fonts Custom.md",
+    "Flutter/First Step/Building Method Details in Flutter Language.md",
+    "Android Studio/Kotlin My Module/video player/Untitled.md",
+    "Android Studio/Kotlin My Module/Untitled.md",
+    "Android Studio/Kotlin My Module/Video Duration Convert.md",
+    "Android Studio/Kotlin My Module/UI XML/Layout UI.md",
+    "Android Studio/Kotlin My Module/UI XML/Activity kotlin.md",
+    "Android Studio/Kotlin Tutorials/Touhid Apps!.md",
+    "Android Studio/Kotlin Tutorials/OOP Kotlin (Bonny Ahm ).md",
+    "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
+    "Android Studio/Kotlin Tutorials/Stack Learner/Extension Function in Bangla.md",
+    "A Site Create list/Blogger Site/Devolopmern/Font-end/First Site.md",
+    "A Site Create list/Common Elements/CND.md",
+    "Untitled 2.md",
+    "A Site Create list/Blogger Site/Devolopmern/Font-end",
+    "Untitled 6",
+    "Untitled 5",
+    "A Site Create list/Blogger Site/Devolopmern",
+    "A Site Create list/Blogger Site/Online Shop-vs",
+    "A Site Create list/Blogger Site",
+    "A Site Create list/Common Elements",
+    "Untitled 4",
     "C plus plus/image.png",
     "C plus plus/image-1.png",
-    "C plus plus/1 cpp .md",
-    "C plus plus",
-    "SEO is Everything/Outsourcing BD Institute by Golzer/Untitled.md",
-    "SEO is Everything/Outsourcing BD Institute by Golzer/Outsourcing BD Institute by Golzer.md",
-    "SEO is Everything/Outsourcing BD Institute by Golzer",
-    "SEO is Everything",
-    "2024-04-16.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/8 Execution Context JavaScript.md",
     "JavaScript & Node js/JavaScript Details/Sumit/Untitled.canvas",
-    "Github/Any Folder add.md",
     "ScreenShortzImage/Screenshot_98.png",
     "ScreenShortzImage/Screenshot_96.png",
     "ScreenShortzImage/Screenshot_94.png",
     "ScreenShortzImage/Screenshot_93.png",
-    "Github/Desktop cunnection.md",
-    "ScreenShortzImage/Screenshot_95.png",
-    "Architecture konlin.md",
-    "2024-04-12.md",
-    "2024-04-15.md",
-    "2024-04-14.md",
-    "Redux/Redux and React First Project Step.md",
-    "2024-04-11.md",
-    "Facebook/Sumaiya Minu/Sumaiyamimu24.md",
-    "Facebook/Sumaiya Minu",
-    "Untitled 2",
-    "Untitled 1",
-    "JavaScript & Node js/JavaScript Details/Sumit/1 Scopes Javascript.md",
-    "JavaScript & Node js/JavaScript Details/show more/Tagged Template Literals.md",
-    "JavaScript & Node js/JavaScript Details/show more/Built In Function.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/3 Closures JavaScript.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/2 var let const.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/6 Prototype Inheritance.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/5 Prototype JavaScript.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/4 Hoisting JavaScript.md",
-    "Chrome Extention/Chrome DevTools.md",
-    "JavaScript & Node js/JavaScript Details/Sumit/9 Higher Order Fucntion.md",
-    "ScreenShortzImage/Screenshot_63.png",
-    "ScreenShortzImage/Screenshot_61.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
     "Android Studio/Untitled.canvas"
   ]
 }
