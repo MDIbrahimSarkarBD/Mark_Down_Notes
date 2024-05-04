@@ -23,38 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiver/SEO/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8fd6985c403333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Site Create list/Common Elements/CND.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acba0357acc9ee23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
+                "file": "Google Ads Manager Account.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
+                "file": "Google Ads Manager Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
+                "file": "Google Ads Manager Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEO is Everything/Khalid Farhan SEO/1 FIRST.md"
+                "file": "Google Ads Manager Account.md"
               }
             }
           }
@@ -181,55 +157,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acba0357acc9ee23",
+  "active": "0f452ca2c130d28b",
   "lastOpenFiles": [
+    "Fiver/SEO/Untitled.md",
+    "Architecture konlin.md",
+    "Education Area",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Google Ads Manager Account.md",
+    "2024-04-12.md",
+    "Education Area/Porikhar Rutin.md",
+    "2024-05-04.md",
+    "A Site Create list/Common Elements/CND.md",
+    "2024-04-15.md",
     "2024-04-20.md",
+    "2024-04-19.md",
+    "2024-04-18.md",
+    "2024-04-14.md",
+    "ScreenShortzImage/Screenshot_92.png",
+    "Design Space/PSD Template Guid line/PSD Website Template.md",
+    "Design Space/PSD Template Guid line",
+    "Design Space",
+    "JavaScript & Node js/Electron Framwork/Learnig Code/First Electron App Create Proceces.md",
+    "2024-05-03.md",
+    "JavaScript & Node js/Electron Framwork/Learnig Code",
+    "JavaScript & Node js/Electron Framwork",
+    "Untitled 8",
+    "Untitled 7",
+    "A Site Create list/Blogger Site/Pricesses/Fully.md",
+    "ScreenShortzImage/Screenshot_130.png",
+    "ScreenShortzImage/Screenshot_129.png",
+    "2024-04-26.md",
+    "A Site Create list/Blogger Site/Pricesses",
+    "A Site Create list/Blogger Site/Untitled",
+    "Chat GTP/Patagraph to title create/Untitled.md",
+    "Chat GTP/Patagraph to title create",
+    "SEO is Everything/Khalid Farhan SEO/1 FIRST.md",
     "ScreenShortzImage/Screenshot_127.png",
     "ScreenShortzImage/Screenshot_128.png",
     "ScreenShortzImage/Pasted image 20240420124116.png",
     "Computer Configaration/Router IP.md",
     "A Site Create list/Blogger Site/Blogger Development/Blogger API background.md",
-    "A Site Create list/Blogger Site/Blogger Development",
-    "ScreenShortzImage/Screenshot_92.png",
     "Flutter/First Step/Project UI List/Tab bar UI.md",
-    "Computer Configaration",
-    "Flutter/First Step/Project UI List/Project Body.md",
-    "Flutter/First Step/Project UI List/Data send a Activity to other activity.md",
-    "Flutter/First Step/Project UI List/Activity mean On page to Go Other Page.md",
-    "Flutter/First Step/Project UI List/Card UI.md",
-    "Flutter/First Step/Widgets List.md",
-    "Flutter/First Step/Untitled.md",
-    "Flutter/First Step/Primary Struture.md",
-    "Flutter/First Step/List View Builder for m Array.md",
-    "Flutter/First Step/Fonts Custom.md",
-    "Flutter/First Step/Building Method Details in Flutter Language.md",
-    "Android Studio/Kotlin My Module/video player/Untitled.md",
-    "Android Studio/Kotlin My Module/Untitled.md",
-    "Android Studio/Kotlin My Module/Video Duration Convert.md",
-    "Android Studio/Kotlin My Module/UI XML/Layout UI.md",
-    "Android Studio/Kotlin My Module/UI XML/Activity kotlin.md",
-    "Android Studio/Kotlin Tutorials/Touhid Apps!.md",
-    "Android Studio/Kotlin Tutorials/OOP Kotlin (Bonny Ahm ).md",
     "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
-    "Android Studio/Kotlin Tutorials/Stack Learner/Extension Function in Bangla.md",
-    "A Site Create list/Blogger Site/Devolopmern/Font-end/First Site.md",
-    "A Site Create list/Common Elements/CND.md",
-    "Untitled 2.md",
-    "A Site Create list/Blogger Site/Devolopmern/Font-end",
-    "Untitled 6",
-    "Untitled 5",
-    "A Site Create list/Blogger Site/Devolopmern",
-    "A Site Create list/Blogger Site/Online Shop-vs",
-    "A Site Create list/Blogger Site",
-    "A Site Create list/Common Elements",
-    "Untitled 4",
     "C plus plus/image.png",
     "C plus plus/image-1.png",
     "JavaScript & Node js/JavaScript Details/Sumit/Untitled.canvas",
     "ScreenShortzImage/Screenshot_98.png",
     "ScreenShortzImage/Screenshot_96.png",
-    "ScreenShortzImage/Screenshot_94.png",
-    "ScreenShortzImage/Screenshot_93.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
