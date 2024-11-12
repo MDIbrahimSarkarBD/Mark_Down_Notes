@@ -1,18 +1,7 @@
-> 1.  background: #7dd9f2;
-2.  position: fixed;
-3.  width:
-    
-    320px
-    
-    ;
-4.  height:
-    
-    323px
-    
-    ;
-5.  overflow: hidden;
-6.  z-index: 1;
-7.  right: 0;
+
+## Css code
+`background: #7dd9f2; position: fixed; width: 320px; height: 323px; overflow: hidden; z-index: 1; right: 0;`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDI0NzM3N119
+eyJoaXN0b3J5IjpbLTk4MTIyMTUxM119
 -->
