@@ -6,12 +6,10 @@ Before we start, make sure you have the following installed:
 -   PHP version 8.1 or later
 - 
 ## Install Livewire
-```
-composer  require  livewire/livewire
-```
+`composer  require  livewire/livewire`
 
 php  artisan  make:livewire  counter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTM2MzY5M119
+eyJoaXN0b3J5IjpbLTE2MTMwMTk3MDNdfQ==
 -->
