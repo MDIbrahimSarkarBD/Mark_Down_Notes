@@ -1,0 +1,75 @@
+```cmd
+git init
+git add .
+git commit -m "First Time add"
+
+git checkout -b main
+git push origin main
+
+echo "# ibrahim733" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main2
+git remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git
+git push -u origin main2
+
+~gh auth login~
+gh repo create <11>
+gh repo create <repository-name> --private --description "chrome_extention"
+
+git remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git
+
+echo "# markdown2024" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MDIbrahimSarkarBD/markdown2024.git
+git push -u origin main
+
+```
+
+যদি আপনি নতুন রিপোজিটোরি তৈরি না করেন এবং লোকাল রিপোজিটোরিতে কোনো পরিবর্তন করেন নি, আপনার নতুন ব্রাঞ্চ তৈরি করে পুশ করার চেষ্টা করুন:
+
+cssCopy code
+
+`git checkout -b main git push origin main`
+
+## Origin Check
+
+```gt
+git remote -v
+```
+
+## Origin Remove
+
+```gt
+git remote remove origin
+
+```
+
+## Origin Set
+
+```gt
+git remote add origin https://github.com/MDIbrahimSarkarBD/Crome_Extention.git
+```
+
+# Solving
+
+"er repository pushing to
+hint: the same ref. If you want to integrate the rehint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details."
+
+## git pull origin main --allow-unrelated-histories
+
+```github
+git pull origin main --allow-unrelated-histories
+
+git add .
+git commit -m "Merge unrelated histories"
+
+git push origin main
+
+
+```

@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "1f942bcd707965c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c71a22d7c086d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24965c8059c311e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/Rabil hasan/7 artisan command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375e8ea4a4f06d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpp/Config/MinGW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4a280e1051aeb2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ScreenShortzImage/Pasted image 20240522065109.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a06fd9c1411052f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a367672caa76b405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d580ed45a79ba2b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "908e73395741ea08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "api",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c55d25ca4ab063d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "0d475cfb35bc590a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f8a12f8f4c273f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54566312b4483e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cpp/Config/MinGW.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff6e3a838e909106",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cpp/Config/MinGW.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40c5ba17ca41020c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "77bbfa38345eb534",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cpp/Config/MinGW.md"
+              }
+            }
+          },
+          {
+            "id": "16882bf89a93d78d",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "375e8ea4a4f06d56",
+  "lastOpenFiles": [
+    "ScreenShortzImage/Pasted image 20241008201040.png",
+    "php/Learn Hunter/19 Middleware.md",
+    "Cpp/Config/MinGW.md",
+    "Cpp/Config",
+    "Cpp/Untitled",
+    "Cpp",
+    "ScreenShortzImage/Pasted image 20240522065109.png",
+    "php/Learn Hunter/20.md",
+    "php/Learn Hunter/Untitled",
+    "php/Learn Hunter/18.md",
+    "php/Learn Hunter/10 Starterkits.md",
+    "ScreenShortzImage/Pasted image 20240928235941.png",
+    "php/Rabil hasan/7 artisan command.md",
+    "php/Learn Hunter/05 trait for multiple inheritance php.md",
+    "php/Learn Hunter/06 composer.md",
+    "php/Learn Hunter/07 Install Laravel fresh Project.md",
+    "php/Learn Hunter/08 Configuration.md",
+    "Github/Demo.md",
+    "Github/Any Folder add.md",
+    "Github/Desktop cunnection.md",
+    "php/Moniruz Zaman/Laravel/24.md",
+    "php/Moniruz Zaman/Laravel/23.md",
+    "php/Moniruz Zaman/Laravel/22.md",
+    "php/Moniruz Zaman/Laravel/21.md",
+    "php/Moniruz Zaman/Laravel/20.md",
+    "php/Moniruz Zaman/Laravel/19.md",
+    "php/Moniruz Zaman/Laravel/18.md",
+    "php/Moniruz Zaman/Laravel/17.md",
+    "php/Moniruz Zaman/Laravel/16.md",
+    "php/Moniruz Zaman/Laravel/15.md",
+    "php/Moniruz Zaman/Laravel/14.md",
+    "php/Moniruz Zaman/Laravel/13.md",
+    "php/Moniruz Zaman/Laravel",
+    "Untitled 3",
+    "php/Moniruz Zaman",
+    "tuki taki",
+    "ScreenShortzImage/Pasted image 20240929011654.png",
+    "ScreenShortzImage/Pasted image 20240920101033.png",
+    "ScreenShortzImage/Pasted image 20240929004203.png",
+    "ScreenShortzImage/Pasted image 20240929004035.png",
+    "php/Rabil hasan",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "php/Learn Hunter",
+    "first-vault/Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
+    "Android Studio/Kotlin Tutorials/Architecture konlin.canvas",
+    "ScreenShortzImage/Pasted image 20240522120832.png",
+    "ScreenShortzImage/Pasted image 20240522120230.png",
+    "ScreenShortzImage/Pasted image 20240522114637.png",
+    "JavaScript & Node js/JavaScript Details/Sumit/Untitled.canvas",
+    "ScreenShortzImage/Pasted image 20240521133238.png",
+    "Android Studio/Untitled.canvas"
+  ]
+}

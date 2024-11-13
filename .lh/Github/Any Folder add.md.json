@@ -1,0 +1,18 @@
+{
+    "sourceFile": "Github/Any Folder add.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1731504206728,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1731504206728,
+            "name": "Commit-0",
+            "content": "```cmd\ngit init\ngit add .\ngit commit -m \"First Time add\"\n\ngit checkout -b main\ngit push origin main\n\necho \"# ibrahim733\" >> README.md\ngit init\ngit add README.md\ngit commit -m \"first commit\"\ngit branch -M main2\ngit remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git\ngit push -u origin main2\n\n~gh auth login~\ngh repo create <11>\ngh repo create <repository-name> --private --description \"chrome_extention\"\n\ngit remote add origin https://github.com/MDIbrahimSarkarBD/Mark_Down_Notes.git\n\necho \"# markdown2024\" >> README.md\ngit init\ngit add README.md\ngit commit -m \"first commit\"\ngit branch -M main\ngit remote add origin https://github.com/MDIbrahimSarkarBD/markdown2024.git\ngit push -u origin main\n\n```\n\nযদি আপনি নতুন রিপোজিটোরি তৈরি না করেন এবং লোকাল রিপোজিটোরিতে কোনো পরিবর্তন করেন নি, আপনার নতুন ব্রাঞ্চ তৈরি করে পুশ করার চেষ্টা করুন:\n\ncssCopy code\n\n`git checkout -b main git push origin main`\n\n## Origin Check\n\n```gt\ngit remote -v\n```\n\n## Origin Remove\n\n```gt\ngit remote remove origin\n\n```\n\n## Origin Set\n\n```gt\ngit remote add origin https://github.com/MDIbrahimSarkarBD/Crome_Extention.git\n```\n\n# Solving\n\n\"er repository pushing to\nhint: the same ref. If you want to integrate the rehint: 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\"\n\n## git pull origin main --allow-unrelated-histories\n\n```github\ngit pull origin main --allow-unrelated-histories\n\ngit add .\ngit commit -m \"Merge unrelated histories\"\n\ngit push origin main\n\n\n```\n"
+        }
+    ]
+}

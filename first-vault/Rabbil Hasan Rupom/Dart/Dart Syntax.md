@@ -1,0 +1,5 @@
+- Whitespace
+- Dart is Case-sensitive
+- Statements end with Semicolon
+- Comments in Dart
+- 
