@@ -1,6 +1,6 @@
 
 # Server-side setup
-
+![enter image description here](https://youtu.be/Xp2uIqnsegQ)
 ## Install dependencies
 ```
 composer require inertiajs/inertia-laravel
@@ -11,5 +11,6 @@ composer require inertiajs/inertia-laravel
 
 php artisan inertia:middleware
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MzY1Mjk2LC0xMDk4NzU5OTk0XX0=
+eyJoaXN0b3J5IjpbLTk0NDA1MzYxMSw0OTkzNjUyOTYsLTEwOT
+g3NTk5OTRdfQ==
 -->
